@@ -1,0 +1,5 @@
+sonar mvn: sonar \
+  -Dsonar.projectKey = Prueba- \
+  -Dsonar.organización = yan1907-github \
+  -Dsonar.host.url = https: //sonarcloud.io \
+  -Dsonar.login = 159b8ba186b58313218cce396224333159de142b
